@@ -33,7 +33,7 @@ When project directory is setup, you can download our script:
 
 `curl https://raw.githubusercontent.com/Decodo/BeautifulSoup/master/beautifulsoup.py > beautifulsoup.py`
 
-<img src="https://i.imgur.com/nE2ANuV.png" alt="curl decodo beautifulsoup http/https proxy configuration">
+<img width="967" alt="image" src="https://github.com/user-attachments/assets/e34a67ae-0284-4f9b-8a87-046bae0e63dd" />
 
 You should now see your project folder populated with *beautifulsoup.py* file.
 
@@ -47,7 +47,8 @@ proxies = {'http': 'http://username:password@gate.decodo.com:7000', # Your usern
           'https': 'http://username:password@gate.decodo.com:7000'} 
 ```
 
-<img src="https://i.imgur.com/xUB7Q6s.png" alt="Decodo beautifulsoup http/https proxy configuration with username password authentication">
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/562d2165-5a96-4b78-a42c-a29a1e272097" />
+
 
 ### Usage
 
